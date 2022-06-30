@@ -1,0 +1,2 @@
+# TeX-template
+TeX settings
